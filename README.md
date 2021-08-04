@@ -1,3 +1,3 @@
 # minirt
-This is small implementation of raytraces using Phong lightning model and quaternions
+This is small implementation of raytracer using Phong lightning model and quaternions
 ![Screenshot](jupyter.png)
